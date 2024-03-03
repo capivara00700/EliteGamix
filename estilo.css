@@ -26,6 +26,10 @@ button:focus{
     outline: none;
 }
 
+.bug{
+    margin-inline: 1px;
+}
+
 /*--navegação--*/
 
 .header{
@@ -165,8 +169,26 @@ button:focus{
     background: rgb(85, 0, 85);
 }
 
-
 #img_capa{
     min-width: 250px;
     padding-top: 10%;
  }
+
+/*--conteudo-meio--*/
+
+#caixa-menu-meio{
+    color: black;
+    margin-inline: 1px;
+    background: rgb(209, 208, 208);
+    padding-block: 30px;
+    font-size: 0.8em;
+}
+
+#caixa-menu-meio h4{
+    padding-block: 30px;
+    min-width: 400px;
+}
+
+#caixa-menu-meio p{
+    padding-block: 10px;
+}
