@@ -154,7 +154,7 @@ button:focus{
     }
 
     .apoiadores img{
-        width: 200px;
+        width: 150px;
     }
 
     .apoiadores h1{
@@ -210,4 +210,17 @@ button:focus{
 #catalogo{
     background: rgb(209, 208, 208);
     color: black;
+    padding: 0px;
+}
+
+.alinhamento-textos-catalogo p{
+    font-size: 1.8em;
+    padding-inline: 25%;
+    margin-top: -15%;
+    height: 100px;
+}
+
+.txt-catalogo p{
+    font-size: 1.9em;
+    padding-inline: 15%;
 }
