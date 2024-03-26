@@ -3,9 +3,6 @@
     margin: 0px;
     padding: 0px;
 }
-html{
-    margin-inline: 1px;
-}
 
 body{
     color: white;
@@ -209,11 +206,15 @@ button:focus{
     padding-block: 10px;
 }
 
+/*--videos-destaque*/
+
+
 /*--catalogo--*/
 #catalogo{
     background: rgb(209, 208, 208);
     color: black;
     padding: 0px;
+    clear: both;
 }
 
 .alinhamento-textos-catalogo p{
